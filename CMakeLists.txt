@@ -10,6 +10,10 @@ set(base_files
 		src/Application.h
 		src/WinGetHandler.cpp
 		src/WinGetHandler.h
+		src/Window.cpp
+		src/Window.h
+		src/mainWindow.cpp
+		src/mainWindow.h
 		src/preCompiled.cpp
 		src/preCompiled.h)
 
